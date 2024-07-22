@@ -14,6 +14,9 @@ Brain dump of Javascript, Next.js, Node.js, Typescript, React
 1) firebase
 2) mongodb
 
+#### auth
+1) next-auth
+
 #### hosting
 1) vercel
 2) firebase
