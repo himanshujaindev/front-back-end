@@ -17,3 +17,8 @@ Brain dump of Javascript, Next.js, Node.js, Typescript, React
 #### hosting
 1) vercel
 2) firebase
+
+#### Analytics
+1) Google Analytics
+2) Plausible
+3) 
