@@ -2,6 +2,7 @@
 Brain dump of Javascript, Next.js, Node.js, Typescript, React
 
 #### frontend
+1) programming lang - typescript
 1) reactjs
 2) material ui
 3) tailwindcss
