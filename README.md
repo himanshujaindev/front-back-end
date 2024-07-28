@@ -9,6 +9,10 @@ Brain dump of Javascript, Next.js, Node.js, Typescript, React
 
 #### backend
 1) nodejs
+2) python
+3) java
+4) javascript
+5) go
 
 #### frameworks
 1) python - django
@@ -21,6 +25,7 @@ Brain dump of Javascript, Next.js, Node.js, Typescript, React
 #### db
 1) firebase
 2) mongodb
+3) sql
 
 #### auth
 1) next-auth
@@ -32,4 +37,3 @@ Brain dump of Javascript, Next.js, Node.js, Typescript, React
 #### Analytics
 1) Google Analytics
 2) Plausible
-3) 
