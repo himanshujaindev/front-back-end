@@ -10,6 +10,14 @@ Brain dump of Javascript, Next.js, Node.js, Typescript, React
 #### backend
 1) nodejs
 
+#### frameworks
+1) python - django
+2) java - springboot
+3) js - express.js
+4) c# - asp.net
+5) ruby - ruby on rails
+6) go - gin
+
 #### db
 1) firebase
 2) mongodb
